@@ -6,4 +6,4 @@ def decimal_translator_2(n, base):
             return('None')
         else:
             summ += nums.find(n[i].lower()) * base**(len(n) - 1 - i)
-    return(summ)
+    return summ
