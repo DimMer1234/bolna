@@ -1,1 +1,0 @@
-# bolna, bolna, ochen bolna
